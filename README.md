@@ -1,4 +1,4 @@
-# Mi primer laboratorio seguro de ciberseguridad
+# Laboratorio seguro de ciberseguridad
 
 **Alumna:** Gisela Tomei  
 **Curso:** Ciberseguridad - Coderhouse  
